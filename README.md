@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hezy4
 - 👀 I’m interested in Ai and machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me hezycb@gmail.com
 
 <!---
