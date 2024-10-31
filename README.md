@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hezy4
 - 👀 I’m interested in AI/ML & Cybersecurity
 - 🌱 I’m currently learning Data Structures
-- 📫 How to reach me:
-- No
+- 📫 How to reach me: No
 
 <!---
 henryboes25/henryboes25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
