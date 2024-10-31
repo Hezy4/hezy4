@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hezy4
-- 👀 I’m interested in Ai and machine learning
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in AI/ML & Cybersecurity
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me:
 - No
 
